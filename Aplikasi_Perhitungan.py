@@ -191,7 +191,7 @@ def main9x9():
 
     col11, col21 = st.columns(2)
     with col11 :
-        st.write(" 0 = Sektor 1" )
+        st.write(" 0 = Pertanian " )
         st.write(" 1 = Sektor 2" )
         st.write(" 2 = Sektor 3" )
         st.write(" 3 = Sektor 4" )
